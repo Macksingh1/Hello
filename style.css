@@ -1,0 +1,16 @@
+div {
+    color: blue;
+    background-color: yellow;
+    padding: 3px;
+}
+form {
+    background-color: gray;
+    margin: 3px;
+    padding: 5px;
+}
+h1 {
+    color: red; text-align: center; background-color: black;
+}
+a {
+    color: burlywood; background-color: gray; 
+}
